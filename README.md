@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **Go lang**
 
-- 👨‍💻 All of my projects are available at [https://github.com/fahdaguenouz](https://github.com/fahdaguenouz)
+- 👨‍💻 All of my projects are available at [Check it now](https://github.com/fahdaguenouz)
 
 - 💬 Ask me about **React, Laravel, Go lang , Html, Css , Js, Mysql, Mongodb**
 
 - 📫 How to reach me **faguenouz@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/fahd-aguenouz-894478265/](https://www.linkedin.com/in/fahd-aguenouz-894478265/)
+- 📄 Know about my experiences [Welcome](https://www.linkedin.com/in/fahd-aguenouz-894478265/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
