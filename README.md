@@ -54,23 +54,51 @@
   Built a full-stack web application "Do It Yourself" using React.js and Laravel<br><br>
 </div>
 
+## 🛠️ Skills
 
-<h3><b><samp>Skills</samp></b></h3>
+### 🔤 Languages
+![Go](https://skillicons.dev/icons?i=go)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![PHP](https://skillicons.dev/icons?i=php)
+![Python](https://skillicons.dev/icons?i=py)
+![Bash](https://skillicons.dev/icons?i=bash)
 
-<h4><b><samp>Languages</samp></b></h4>
-![](https://skillicons.dev/icons?i=go,js,ts,php,py,bash&perline=18)
+### 🎨 Frontend
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![React](https://skillicons.dev/icons?i=react)
 
-<h4><b><samp>Frontend</samp></b></h4>
-![](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react&perline=18)
+### 🖥️ Backend
+![Laravel](https://skillicons.dev/icons?i=laravel)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![Postman](https://skillicons.dev/icons?i=postman)
 
-<h4><b><samp>Backend</samp></b></h4>
-![](https://skillicons.dev/icons?i=laravel,nodejs,express,postman&perline=18)
+### 🗄️ Databases
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Firebase](https://skillicons.dev/icons?i=firebase)
 
-<h4><b><samp>Database</samp></b></h4>
-![](https://skillicons.dev/icons?i=mysql,mongodb,firebase&perline=18)
+### ⚙️ Dev Tools
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Linux](https://skillicons.dev/icons?i=linux)
 
-<h4><b><samp>Dev Tools</samp></b></h4>
-![](https://skillicons.dev/icons?i=git,github,vscode,linux&perline=18)
+## 🧰 Tools and Platforms
+
+### 🖥️ Operating Systems
+![Windows](https://skillicons.dev/icons?i=windows)
+![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
+![Debian](https://skillicons.dev/icons?i=debian)
+
+### 🧠 IDEs
+![VSCode](https://skillicons.dev/icons?i=vscode)
+![Sublime](https://skillicons.dev/icons?i=sublime)
+![JetBrains](https://skillicons.dev/icons?i=jetbrains)
 
 ##
 <h3><b><samp>Tools and Platforms</samp></b></h3>
