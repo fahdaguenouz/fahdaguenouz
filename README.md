@@ -108,9 +108,7 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=fahdaguenouz&repo=make-your-game" />
 </a>
 
-<a href="https://fahdaguenouz.netlify.app/">
-
-</a>
+<a href="https://fahdaguenouz.netlify.app/">check my Portfolio </a>
 
   </span>
   
