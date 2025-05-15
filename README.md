@@ -80,7 +80,6 @@
 ### 🗄️ Databases
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Firebase](https://skillicons.dev/icons?i=firebase)
 
 ### ⚙️ Dev Tools
 ![Git](https://skillicons.dev/icons?i=git)
@@ -93,21 +92,11 @@
 ### 🖥️ Operating Systems
 ![Windows](https://skillicons.dev/icons?i=windows)
 ![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
-![Debian](https://skillicons.dev/icons?i=debian)
+
 
 ### 🧠 IDEs
 ![VSCode](https://skillicons.dev/icons?i=vscode)
-![Sublime](https://skillicons.dev/icons?i=sublime)
-![JetBrains](https://skillicons.dev/icons?i=jetbrains)
 
-##
-<h3><b><samp>Tools and Platforms</samp></b></h3>
-
-<h4><b><samp>Operating Systems</samp></b></h4>
-![](https://skillicons.dev/icons?i=windows,ubuntu,debian&perline=18)
-
-<h4><b><samp>IDEs</samp></b></h4>
-![](https://skillicons.dev/icons?i=vscode,sublime,jetbrains&perline=18)
 
 <hr>
 
