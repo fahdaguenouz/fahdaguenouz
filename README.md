@@ -1,36 +1,113 @@
-#  About Me:
-<h1 align="center">Hi 👋, I'm Fahd Aguenouz</h1>
-<h3 align="center">I'm a 21-year-old full stack developer with a passion for programming. I enjoy learning and staying up-to-date with the latest technologies in the industry. I have experience working on projects ranging from simple web pages to complex web applications, and I love solving problems and creating innovative solutions. I'm a self-motivated and detail-oriented individual who works well independently or as part of a team.</h3>
+# Hey Everyone! I'm [Fahd Aguenouz ](https://github.com/fahdaguenouz)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fahdaguenouz&label=Profile%20views&color=0e75b6&style=flat" alt="fahdaguenouz" /> </p>
+<br><br>
+<a href="https://www.linkedin.com/in/fahdaguenouz/">
+  <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/fahdaguenouz">
+  <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/yoofahdagchill/">
+  <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahdaguenouz" alt="fahdaguenouz" /></a> </p>
-
-- 🔭 I’m currently working on [Mister Quiz](https://github.com/fahdaguenouz/mister-quiz)
-
-- 🌱 I’m currently learning **Go lang**
-
-- 👨‍💻 All of my projects are available at [Check it now](https://github.com/fahdaguenouz)
-
-- 💬 Ask me about **React, Laravel, Go lang , Html, Css , Js, Mysql, Mongodb**
-
-- 📫 How to reach me **faguenouz@gmail.com**
-
-- 📄 Know about my experiences [Welcome](https://www.linkedin.com/in/fahd-aguenouz-894478265/)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/fahd-aguenouz-894478265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fahd-aguenouz-894478265/" height="30" width="40" /></a>
+<br><br>
+<a href="https://www.hackerrank.com/profile/fahdaguenouz1">
+  <img align="left" alt="akd's hackerrank" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
+</a>
 <a href="https://fb.com/https://www.facebook.com/fahd.agz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/fahd.agz/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/yoofahdagchill?igshid=ntc4mtiwnjq2yq%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/yoofahdagchill?igshid=ntc4mtiwnjq2yq%3d%3d" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/fahdaguenouz1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ahdaguenouz1" height="30" width="40" /></a>
+
+<br><br>
+![](https://github.com/fahdaguenouz/fahdaguenouz/header_.png)
+
+<p align="center"><h4 align="center"><samp> An Assistant Developer | Web Development Enthusiast | Open Source Learner | Passionate about Go & Full Stack Development </samp></h4></p>
+
+<div>
+<img align="right" src="https://github.com/fahdaguenouz/fahdaguenouz/blob/main/terminal.gif" width="40%"/>
+  <br>
+
+- 👨‍💻 <samp><b>Assistant Developer @ Zone01 Oujda - Level 30 Achieved</b></samp>
+- 🎓 <samp><b>Diploma in Digital Development (2024) from ISTA</b></samp>
+- 💡 <samp>Final project: Web App "Do It Yourself" using React.js & Laravel</samp>
+- 🧑‍🔬 <samp>Internships at Ministry of National Education & Zone01 (React, Laravel, Go, Git, Projects & Hackathon)</samp>
+- 🔍 <samp>Open to full-time roles in web development or backend with Go/Laravel</samp>
+- 💬 <samp>Ask me about Go, Laravel, React, APIs, or Web Architecture</samp>
+- 🛠️ <samp>Always building, learning, and contributing</samp>
+- 🎯 <samp>Goal: Keep growing, keep shipping.</samp>
+</div>
+
+
+##
+<div>
+<h3><b><samp>Experiences:</samp></b></h3>
+
+- 🏢 <b>Intern — Ministry of National Education, Preschool & Sports</b><br>
+  Worked on a React.js + Laravel web app for internal operations<br><br>
+
+- 🏫 <b>Bootcamp Trainee — Zone01 Oujda (Summer 2024)</b><br>
+  Trained in Go language, version control with Git, and project collaboration<br><br>
+
+- 🧪 <b>Hackathon Participant</b><br>
+  Contributed to a real-time project during a hackathon at Zone01<br><br>
+
+- 🌐 <b>Final Year Project</b><br>
+  Built a full-stack web application "Do It Yourself" using React.js and Laravel<br><br>
+</div>
+##
+<h3><b><samp>Skills</samp></b></h3>
+
+<h4><b><samp>Languages</samp></b></h4>
+![](https://skillicons.dev/icons?i=go,js,ts,php,py,bash&perline=18)
+
+<h4><b><samp>Frontend</samp></b></h4>
+![](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react&perline=18)
+
+<h4><b><samp>Backend</samp></b></h4>
+![](https://skillicons.dev/icons?i=laravel,nodejs,express,postman&perline=18)
+
+<h4><b><samp>Database</samp></b></h4>
+![](https://skillicons.dev/icons?i=mysql,mongodb,firebase&perline=18)
+
+<h4><b><samp>Dev Tools</samp></b></h4>
+![](https://skillicons.dev/icons?i=git,github,vscode,linux&perline=18)
+
+##
+<h3><b><samp>Tools and Platforms</samp></b></h3>
+
+<h4><b><samp>Operating Systems</samp></b></h4>
+![](https://skillicons.dev/icons?i=windows,ubuntu,debian&perline=18)
+
+<h4><b><samp>IDEs</samp></b></h4>
+![](https://skillicons.dev/icons?i=vscode,sublime,jetbrains&perline=18)
+
+<hr>
+
+  
+<h3><b><samp>Check out my Repositories</samp></b></h3>
+
+<span>
+<a href="https://github.com/fahdaguenouz/make-your-game">
+  <img align="right" src="https://pac-man-melfarss-projects.vercel.app/" />
+</a>
+<!-- <a href="https://github.com/amandewatnitrr/Aztecs-LogiTraffic">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amandewatnitrr&repo=Aztecs-LogiTraffic" />
+</a> -->
+  </span>
+  
+<hr>
+
+  
+<br>
+
+### 🏆 GitHub Profile Trophy:
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img width=800 src="https://github-profile-trophy.vercel.app/?username=fahdaguenouz&column=8&theme=onedark&no-frame=true&no-bg=true"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://itanea.fr/apprendre-le-developpement-web/wp-content/uploads/2020/07/laravel-mark-red-type-black_w1280.png" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahdaguenouz&show_icons=true&locale=en&layout=compact" alt="fahdaguenouz" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahdaguenouz&show_icons=true&locale=en" alt="fahdaguenouz" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahdaguenouz&" alt="fahdaguenouz" /></p>
+<br>  
+  
+![](https://github.com/fahdaguenouz/fahdaguenouz/blob/main/imgs/bottom_header.svg)
