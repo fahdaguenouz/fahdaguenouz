@@ -53,7 +53,8 @@
 - 🌐 <b>Final Year Project</b><br>
   Built a full-stack web application "Do It Yourself" using React.js and Laravel<br><br>
 </div>
-##
+
+
 <h3><b><samp>Skills</samp></b></h3>
 
 <h4><b><samp>Languages</samp></b></h4>
