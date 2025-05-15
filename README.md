@@ -105,11 +105,13 @@
 
 <span>
 <a href="https://github.com/fahdaguenouz/make-your-game">
-  <img align="right" src="https://pac-man-melfarss-projects.vercel.app/" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=fahdaguenouz&repo=make-your-game" />
 </a>
-<!-- <a href="https://github.com/amandewatnitrr/Aztecs-LogiTraffic">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amandewatnitrr&repo=Aztecs-LogiTraffic" />
-</a> -->
+
+<a href="https://fahdaguenouz.netlify.app/">
+
+</a>
+
   </span>
   
 <hr>
