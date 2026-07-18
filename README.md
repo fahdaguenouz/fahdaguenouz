@@ -15,17 +15,7 @@
 
 <br><br>
 
-<h3><code>fahd@github ~ $ ./stats.sh</code></h3>
-<a href="https://github.com/fahdaguenouz">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./dark_mode.svg">
-    <img alt="Fahd's GitHub Stats" src="./light_mode.svg">
-  </picture>
-</a>
 
-</div>
-
-<br><br>
 
 # Hey Everyone! I'm [Fahd Aguenouz ](https://github.com/fahdaguenouz)
 
