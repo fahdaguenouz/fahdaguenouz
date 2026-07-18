@@ -1,3 +1,32 @@
+<div align="center">
+
+<h3><code>fahd@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" alt="Fahd's GitHub contribution graph" />
+
+<br><br>
+
+<h3><code>fahd@github ~ $ whoami</code></h3>
+<table>
+<tr>
+<td valign="top"><img src="./fahd-ascii.svg" width="370" alt="Fahd Aguenouz — ASCII portrait" /></td>
+<td valign="top"><img src="./info-card.svg" width="490" alt="Fahd Aguenouz — experience, stack, highlights" /></td>
+</tr>
+</table>
+
+<br><br>
+
+<h3><code>fahd@github ~ $ ./stats.sh</code></h3>
+<a href="https://github.com/fahdaguenouz">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dark_mode.svg">
+    <img alt="Fahd's GitHub Stats" src="./light_mode.svg">
+  </picture>
+</a>
+
+</div>
+
+<br><br>
+
 # Hey Everyone! I'm [Fahd Aguenouz ](https://github.com/fahdaguenouz)
 
 <br><br>
