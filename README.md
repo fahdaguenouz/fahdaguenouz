@@ -1,9 +1,5 @@
 <div align="center">
 
-<h3><code>fahd@github ~ $ ./contributions.sh</code></h3>
-<img src="./contrib-heatmap.svg" width="860" alt="Fahd's GitHub contribution graph" />
-
-<br><br>
 
 <h3><code>fahd@github ~ $ whoami</code></h3>
 <table>
@@ -12,6 +8,14 @@
 <td valign="top"><img src="./info-card.svg" width="490" alt="Fahd Aguenouz — experience, stack, highlights" /></td>
 </tr>
 </table>
+
+
+<br><br>
+
+
+
+<h3><code>fahd@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" alt="Fahd's GitHub contribution graph" />
 
 <br><br>
 
